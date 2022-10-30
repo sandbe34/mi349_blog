@@ -1,0 +1,94 @@
+html {
+    background: #e3e3e3;
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin: 40px;
+padding: 40px;
+color: #242424;
+border-top: 10px solid #242424;
+background: white;
+padding-bottom: 5px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+h2{
+    font-size: 2em;
+    text-underline-offset: 5px;
+}
+
+h3{
+    margin-left: 100px;
+    width: 500px;
+    text-align: center;
+}
+
+
+p {
+    line-height: 1.4em;
+    width: 700px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+#blog {
+    border-top: 1px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 1px dotted #ccc;
+}
+
+.author{
+    color: rgb(115, 115, 115);
+}
+
+#newsletter-signup{
+    background: #e3e3e3;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.weblog-description{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+#MSU-football-table{
+    background: #51a10177;
+    margin: 10px;
+    margin-left: 120px;
+    text-align: center;
+}
+
+td{
+    color: blue;
+    padding: 8px;
+}
+
+#about-section{
+    border-top: 1px dotted #ccc;
+}
+
+#contact-form{
+    border-top: 1px dotted #ccc;
+}
+
+label{
+    padding: 5px;
+}
+
+li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
