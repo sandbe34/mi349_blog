@@ -136,3 +136,12 @@ li{
     justify-content: center;
     margin-top: 5px;
 }
+
+#chicagofloat-image{
+    float: left;
+    margin-right: 20px;
+}
+#float-text{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
