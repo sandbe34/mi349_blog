@@ -77,15 +77,14 @@ p {
     color: rgb(115, 115, 115);
 }
 .author-box{
-    background: blue;
+    margin-left: 20px;
 }
 .author-box-image{
-    background: red;
     float: left;
 }
 .author-box-info{
-    background: black;
-    padding: 20px;
+    padding-bottom: 45px;
+    padding-left: 90px;
 }
 
 #newsletter-signup{
@@ -101,7 +100,7 @@ p {
     margin-bottom: 10px;
 }
 
-#MSU-football-table{
+.MSU-football-table{
     background: #51a10177;
     display: flex;
     justify-content: center;
@@ -115,6 +114,8 @@ td{
 
 #about-section{
     border-top: 1px dotted #ccc;
+    justify-items: center;
+    
 }
 
 #contact-form{
